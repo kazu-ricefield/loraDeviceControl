@@ -14,6 +14,9 @@ Visit the [LoRa Device Control](https://kazu-ricefield.github.io/loraDeviceContr
 - **Time Lag**: There is a slight delay in the live stream. Please compare the time shown on the webpage (from your local device) with the time on the live stream (JST/UTC+9) to check the result.
 - **Response Time**: The light will typically turn on or off within 2 seconds of your action. The YouTube stream delay is usually 5 to 10 seconds. If the delay is longer, please refresh the page.
 
+### Discussions
+If you have any questions, feedback, or ideas related to this project, feel free to join the conversation in our [Discussions](https://github.com/kazu-ricefield/loraDeviceControl/discussions) section. We welcome your input and look forward to engaging with you!
+
 *Note: This page may be temporarily unavailable or discontinued without notice.*
 
 ### Keywords
